@@ -13,5 +13,11 @@
       "uuid": "5b3e46d0-c210-11ef-8a9f-fdd3e8a07f17",
       "version": [0, 0, 1]
     }
-  ]
+  ],
+    "subpacks": [
+      {	      
+        "folder_name": "sub_a",
+        "name": "subpack.alpha.name",
+        "memory_tier": 1
+      }
 }
